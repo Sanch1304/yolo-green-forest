@@ -18,7 +18,7 @@ To set up the project locally, follow these steps:
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/your-username/Driver-Drowsiness-Detection.git
+git clone https://github.com/Sanch1304/yolo-green-forest.git
 Install the required dependencies:
 bash
 Copy code
